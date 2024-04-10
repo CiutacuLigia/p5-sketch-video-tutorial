@@ -9,5 +9,5 @@ function draw() {
   strokeWeight(10);
   point(180, 175);
   point(215, 175);
-  arc(200, 200, 60, 60, PI, TWO_PI);
+  arc(200, 225, 60, 60, PI, TWO_PI);
 }
